@@ -6,9 +6,9 @@ The new repository for store my dotfile.
 
 ## Prerequisite ##
 
+* [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) for zsh
 * [vim-pathogen](https://github.com/tpope/vim-pathogen) for vim
 * [vim-plug](https://github.com/junegunn/vim-plug) for vim
-* [antibody](https://github.com/getantibody/antibody) for zsh
 
 ## Installation ##
 
